@@ -31,7 +31,7 @@ This is a simple web application for diabetes prediction. It uses a pre-trained 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/diabetes-prediction-app.git
+   git clone https://github.com/Anjureddyk/Diabetes_Prediction_Web_App.git
 To run the web app, execute the following command:
 
 streamlit run app.py
